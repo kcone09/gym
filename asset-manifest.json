@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kcone09/ec-gym/static/css/main.20acbc28.css",
+    "main.js": "/kcone09/ec-gym/static/js/main.76365b44.js",
+    "static/media/71GUC8cl7bL._AC_SL1400_.jpg": "/kcone09/ec-gym/static/media/71GUC8cl7bL._AC_SL1400_.1d37b0fc84ded055fc43.jpg",
+    "static/media/gym.png": "/kcone09/ec-gym/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/kcone09/ec-gym/index.html",
+    "main.20acbc28.css.map": "/kcone09/ec-gym/static/css/main.20acbc28.css.map",
+    "main.76365b44.js.map": "/kcone09/ec-gym/static/js/main.76365b44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.76365b44.js"
+  ]
+}
