@@ -1,5 +1,5 @@
-import { Box, Stack, Typography, Button } from '@mui/material'
-import HeroImage from '../assets/images/71GUC8cl7bL._AC_SL1400_.jpg'
+import { Box, Typography, Button } from '@mui/material'
+import HeroImage from '../assets/images/banner1.png'
 
 const HeroBanner = () => {
   return (

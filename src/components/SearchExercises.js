@@ -43,7 +43,7 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
       <Typography
         fontWeight={700}
         sx={{ fontSize: { lg: '44px', xs: '30px' } }}
-        mb='50px'
+        // mb='50px'
         textAlign='center'
       >
         Awesome Exercises You <br />

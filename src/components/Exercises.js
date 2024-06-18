@@ -42,7 +42,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
     <Box
       id='exercises'
       sx={{ mt: { lg: '110px', xs: '70px' } }}
-      mt='50px'
+      // mt='50px'
       p='20px'
     >
       <Typography

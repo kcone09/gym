@@ -4,7 +4,7 @@ import { Button, Typography, Stack } from '@mui/material'
 
 const ExercisesCard = ({ exercise, setExercises, bodyPart }) => {
   return (
-    <Link className='exercise-card' to={`/exercise/${exercise.id}`}>
+    <Link className='exercise-card' to={`/exercise/${exercise.id}`} onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
       <img
         src={exercise.gifUrl}
         alt={exercise.name}
